@@ -1,16 +1,16 @@
-## Hi there 👋
+  # Hello, I'm Niharika Kochhar! 👋
 
-<!--
-**niharika25mib10038-bit/niharika25mib10038-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+* *Branch:* Integrated M.Tech in AI and Bioinformatics
+* *Year:* First Year
 
-Here are some ideas to get you started:
+### 🎯 Learning Goal
+I am passionate about the intersection of technology and biology. My primary goal is to become a *Bio-researcher*, utilizing Artificial Intelligence to decode complex biological data and drive innovation in the healthcare and life sciences sectors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Interests
+* *AI & Machine Learning:* Neural Networks, Data Analysis
+* *Bioinformatics:* Genomic sequencing, Molecular modeling
+* *Focus:* Computational Biology & Research
+
